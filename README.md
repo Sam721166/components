@@ -1,3 +1,12 @@
+
+pink card
+<img width="669" height="716" alt="Screenshot 2025-10-24 090745" src="https://github.com/user-attachments/assets/1ca21646-02d9-45a6-9a30-21d516059407" />
+
+green card
+<img width="788" height="735" alt="Screenshot 2025-10-24 162914" src="https://github.com/user-attachments/assets/1448275c-d32a-440d-a0ab-0267cd0c3bc6" />
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
