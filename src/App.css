@@ -8,6 +8,9 @@
 
 /* font-family: "Montserrat", sans-serif; */
 
+@custom-variant dark (&:where(.dark, .dark *));
+
+
 @theme{
     --font-clean: "Montserrat", sans-serif;
     --font-ios: "DM Sans", sans-serif;
