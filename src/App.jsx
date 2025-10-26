@@ -4,13 +4,14 @@ import PinkCard from './components/pinkCard'
 import GreenCard from './components/greenCard'
 import Phone from './components/phone'
 import NotificationCard from './components/notificationCard'
+import Particle from './components/particle'
 
 
 function App() {
 
   return (
     <>
-      <NotificationCard />
+      <Particle />
     </>
   )
 }
