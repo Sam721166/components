@@ -5,6 +5,16 @@ pink card
 green card
 <img width="788" height="735" alt="Screenshot 2025-10-24 162914" src="https://github.com/user-attachments/assets/1448275c-d32a-440d-a0ab-0267cd0c3bc6" />
 
+phone component
+
+<img width="855" height="794" alt="Screenshot 2025-10-24 234752" src="https://github.com/user-attachments/assets/6b9794c7-d169-4695-a34f-124441834734" />
+<img width="786" height="690" alt="Screenshot 2025-10-25 185512" src="https://github.com/user-attachments/assets/270cb7ce-4aee-4e02-80f2-ad3cbc0a1a7b" />
+
+
+notificatioon component
+<img width="736" height="612" alt="Screenshot 2025-10-26 012433" src="https://github.com/user-attachments/assets/e45dd79e-3691-4a91-8bae-3fca58c55234" />
+
+
 
 
 # React + Vite
