@@ -14,6 +14,10 @@ phone component
 notificatioon component
 <img width="736" height="612" alt="Screenshot 2025-10-26 012433" src="https://github.com/user-attachments/assets/e45dd79e-3691-4a91-8bae-3fca58c55234" />
 
+partcle component
+
+<img width="931" height="720" alt="image" src="https://github.com/user-attachments/assets/ab84132f-8126-4f99-99ad-a40064b35152" />
+
 
 
 
