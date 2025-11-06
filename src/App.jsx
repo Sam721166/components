@@ -13,11 +13,11 @@ function App() {
   return (
     <>
       <Particle />
+        <Linear />
+      <NotificationCard />
       <PinkCard />
       <GreenCard />
       <Phone />
-      <NotificationCard />
-      <Linear />
     </>
   )
 }
