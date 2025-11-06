@@ -34,7 +34,7 @@ function Linear() {
 
                     <div className='w-100 h-30 border border-neutral-700/70 rounded-xl px-5  justify-center bg-neutral-800/80 backdrop-blur-xs flex flex-col gap-2 absolute z-8 -rotate-y-20 rotate-x-20 shadow-md top-10 left-8  cursor-default  transition-all duration-400 hover:top-5 hover:bg-neutral-700/70 hover:border-neutral-600 group'>
                         <div className='flex gap-2.5 items-center '>
-                            <MdAutoGraph className='text-neutral-500 rounded-full bg-neutral-600 size-6 p-1 group-hover:text-yellow-500  group-hover:bg-yellow-900/80 transition-all duration-500' />
+                            <MdAutoGraph className='text-neutral-500 rounded-full bg-neutral-700 size-6 p-1 group-hover:text-yellow-500  group-hover:bg-yellow-900/80 transition-all duration-500' />
                             <h1 className='text-neutral-700 font-semibold text-[18px] group-hover:text-yellow-500  transition-all duration-400'>At risk</h1>
                         </div>
                         <div>
@@ -48,7 +48,7 @@ function Linear() {
 
                     <div className='w-100 h-30 border border-neutral-800 rounded-xl px-5  justify-center bg-neutral-900/90 backdrop-blur-xs flex flex-col gap-2 absolute z-6 -rotate-y-20 rotate-x-20 shadow-md top-0 cursor-default  transition-all duration-400 hover:-top-7 hover:bg-neutral-700/70 hover:border-neutral-600 group'>
                         <div className='flex gap-2.5 items-center '>
-                            <FaArrowTrendDown className='text-neutral-500 rounded-full  size-6 p-1 bg-neutral-700  transition-all duration-500 group-hover:bg-red-900/60 group-hover:text-red-500' />
+                            <FaArrowTrendDown className='text-neutral-600 rounded-full  size-6 p-1 bg-neutral-800  transition-all duration-500 group-hover:bg-red-900/60 group-hover:text-red-500' />
                             <h1 className='text-neutral-700/60  transition-all duration-400 group-hover:text-red-500 font-semibold text-[18px]'>Off track</h1>
                         </div>
                         <div>
