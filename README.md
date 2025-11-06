@@ -19,6 +19,10 @@ partcle component
 <img width="931" height="720" alt="image" src="https://github.com/user-attachments/assets/ab84132f-8126-4f99-99ad-a40064b35152" />
 
 
+linear component
+
+
+<img width="935" height="824" alt="Screenshot 2025-11-06 200337" src="https://github.com/user-attachments/assets/1afb097f-b32b-47f3-bb40-2f76995781ef" />
 
 
 # React + Vite
