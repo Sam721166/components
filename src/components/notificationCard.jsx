@@ -57,7 +57,7 @@ function NotificationCard() {
                     </div>
 
 
-                    <div className='absolute w-80 h-50 top-30  rounded-lg bg-white border-2 border-neutral-200 z-6 group-hover:top-6 transition-all duration-500 shadow-sm ease-in-out [transition-delay:1s] group-hover:delay-0'>
+                    <div className='absolute w-80 h-50 top-30  rounded-lg bg-white border-2 border-neutral-200 z-6 group-hover:top-6 transition-all duration-500 shadow-sm ease-in-out [transition-delay:1s] group-hover:delay-0 '>
 
 
                          <div className='flex gap-3 p-2 pl-5 pt-3 items-center'>
