@@ -13,13 +13,16 @@ function App() {
 
   return (
     <>
-    <Analytics />
+    <div className='overflow-x-hidden'>
+      <Analytics />
       <Particle />
       <Linear />
       <NotificationCard />
       <Phone />
       <PinkCard />
       <GreenCard />
+    </div>
+    
     </>
   )
 }
