@@ -21,3 +21,22 @@
     --font-ios: "DM Sans", sans-serif;
     --font-playfair: "Playfair Display", serif;;
 }
+
+
+
+/* Make color input round */
+input[type="color"] {
+  -webkit-appearance: none;
+  border: none;
+  padding: 0;
+  background: none;
+}
+
+input[type="color"]::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+input[type="color"]::-webkit-color-swatch {
+  border: none;
+  border-radius: 9999px; /* makes it round */
+}

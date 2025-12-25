@@ -6,7 +6,7 @@ import { FaArrowTrendDown } from "react-icons/fa6";
 function Linear() {
   return (
     <div className='h-screen w-screen bg-black flex items-center justify-center '>
-    <div className='rounded-xl  w-130 h-130 p-10 flex flex-col border-2 border-neutral-800'>
+    <div className='rounded-3xl  w-130 h-130 p-10 flex flex-col border-2 border-neutral-800'>
 
             <div>
                 <h1 className='text-white text-[27px] tracking-tight mb-2'>Project updates</h1>

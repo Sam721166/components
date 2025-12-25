@@ -6,12 +6,14 @@ import Phone from './components/phone'
 import NotificationCard from './components/notificationCard'
 import Particle from './components/particle'
 import Linear from './components/linear'
+import { Analytics } from "@vercel/analytics/react"
 
 
 function App() {
 
   return (
     <>
+    <Analytics />
       <Particle />
       <Linear />
       <NotificationCard />
